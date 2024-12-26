@@ -1,26 +1,16 @@
-#include <iostream>
-using namespace std;
+#include<stdio.h>
+#include<math.h>
 
-unsigned int factorial(unsigned int n)
-{
-    if (n == 0)
-        return 1;
-    return n * factorial(n - 1);
-}
-
-int main(){
-    // int x = 4+2;
-    // cout << x/3 << ' ' << x*2 << "\n";
-
-    /*for (int x=0; x<5; x++) {
-        for (int y=0; y<x; y++) {
-            cout << "*";
-        }   cout << "\n";
+int main()
+{ 
+    int n;
+    printf("Enter n greater than zero: "); 
+    scanf("%d",&n);
+    int prod = 1;
+    for (int i = 1; i <= n; i++) 
+    { 
+        prod = prod * i; 
     }
-    return 0;          pattern que */    
-
-    int num = 5;
-    cout << "Factorial of " << num << " is "
-         << factorial(num) << endl;
-    return 0;
+    printf("n! = %d", prod);
+	return 0; 
 }

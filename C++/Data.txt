@@ -1,0 +1,33 @@
+1 : We are learning files.
+Hi 
+It's Tuesday.
+1 : We are learning files.
+Hello World
+Welcome to Earth.
+1 : We are learning files.
+Good Morning
+Have a Nice day
+1 : We are learning files.
+2 : It is a sunny day.
+2 : But not a funny one. 
+1 : We are learning files.
+1 : Namah shivay
+2 :  
+1 : We are learning files.
+2 : Amrita VIshwa Vidhyapeetham
+3 :  
+1 : We are learning files.
+2 : G
+3 : 1
+1 : We are learning files.
+1 : Hi 
+2 : It's Saturday
+1 : We are learning files.
+2 : hi 
+3 : good morning
+1 : We are learning files.
+2 : add 1
+3 : add 2
+1 : We are learning files.
+2 : hi 
+3 : hello
